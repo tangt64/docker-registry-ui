@@ -1,3 +1,5 @@
+기존 버전은 더 이상 개발이 진행되지 않고 있어서, 코드 리펙토링을 하고 있습니다. 펙토링이 어느정도 끝나면, 다시 저장소 구성해서 올리도록 하겠습니다.
+
 ![Docker Registry UI](https://public.jc21.com/docker-registry-ui/github.png "Docker Registry UI")
 
 # Docker Registry UI
